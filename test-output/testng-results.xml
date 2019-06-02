@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104" started-at="2019-06-02T11:15:53Z" finished-at="2019-06-02T11:15:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104" started-at="2019-06-02T11:15:53Z" finished-at="2019-06-02T11:15:53Z">
+      <class name="com.techm.selenium.home.TC004">
+        <test-method status="PASS" signature="x()[pri:0, instance:com.techm.selenium.home.TC004@d8355a8]" name="x" duration-ms="31" started-at="2019-06-02T11:15:53Z" finished-at="2019-06-02T11:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+      </class> <!-- com.techm.selenium.home.TC004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
